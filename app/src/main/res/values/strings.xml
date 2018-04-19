@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MinneGallaudet</string>
+
+    <string action_settings="action">Action</string>
+    <string name="bee">Bee</string>
+    <string name="flower">Flower</string>
+</resources>
